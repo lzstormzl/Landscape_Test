@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE_Project/Landscape_Maze/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/UE_Project/Landscape_Maze/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/_Maze/MapGa/MapGa_Kite.umap",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Body3_Base_color.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Body3_Metallic.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Body3_Normal_OpenGL.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Body3_Roughness.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Skin_Base_color.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Skin_Metallic.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Skin_Normal_OpenGL.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Skin_Opacity.uasset",
+				"D:/UE_Project/Landscape_Maze/Content/Landscape_Maze/Assets_Import/THUVIENPROPS/NPC/Skin_Roughness.uasset"
 			]
 		}
 	]
