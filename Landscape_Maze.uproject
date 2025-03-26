@@ -18,6 +18,14 @@
 		{
 			"Name": "LandscapePatch",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "MayaLiveLink",
+			"Enabled": true
 		}
 	]
 }
