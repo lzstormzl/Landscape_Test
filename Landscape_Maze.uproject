@@ -24,10 +24,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MayaLiveLink",
-			"Enabled": true
-		},
-		{
 			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
 		},
