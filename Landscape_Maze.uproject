@@ -27,6 +27,10 @@
 			"Name": "KawaiiPhysics",
 			"Enabled": true,
 			"MarketplaceURL": "KawaiiPhysics : Simple fake Physics for UnrealEngine4&5"
+		},
+		{
+			"Name": "MayaLiveLink",
+			"Enabled": true
 		}
 	]
 }
